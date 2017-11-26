@@ -8,7 +8,7 @@
    {"name":"google-chrome-logo", "url":"https://sennrdesign.github.io/wicked.js/images/google-chrome-logo.png"},
    {"name":"twitter-logo", "url":"https://sennrdesign.github.io/wicked.js/images/twitter-logo.png"},
    {"name":"spotify-logo", "url":"https://sennrdesign.github.io/wicked.js/images/spotify-logo.png"}
- ] 
+ ],
  "errors":[
  {"name":"404", "url":"https://sennrdesign.github.io/wicked.js/images/not-found.png"},
  ]
