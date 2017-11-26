@@ -1,1 +1,5 @@
-
+{
+ "images":[
+   {"name":"logo", "url":"http://sennrdesign.github.io/wicked.js/images/logo.png"}
+ ] 
+}
