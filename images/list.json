@@ -1,5 +1,6 @@
 {
  "images":[
-   {"name":"wicked-logo", "url":"https://sennrdesign.github.io/wicked.js/images/wicked-logo.png"}
+   {"name":"wicked-logo", "url":"https://sennrdesign.github.io/wicked.js/images/wicked-logo.png"},
+   {"name":"facebook-logo", "url":"https://sennrdesign.github.io/wicked.js/images/facebook-logo.png"}
  ] 
 }
