@@ -2,6 +2,9 @@
  "images":[
    {"name":"wicked-logo", "url":"https://sennrdesign.github.io/wicked.js/images/wicked-logo.png"},
    {"name":"facebook-logo", "url":"https://sennrdesign.github.io/wicked.js/images/facebook-logo.png"},
+   {"name":"instagram-logo", "url":"https://sennrdesign.github.io/wicked.js/images/instagram-logo.png"},
+   {"name":"youtube-logo", "url":"https://sennrdesign.github.io/wicked.js/images/youtube-logo.png"},
+   {"name":"snapchat-logo", "url":"https://sennrdesign.github.io/wicked.js/images/snapchat-logo.png"},
    {"name":"twitter-logo", "url":"https://sennrdesign.github.io/wicked.js/images/twitter-logo.png"}
  ] 
 }
